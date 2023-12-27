@@ -1,0 +1,17 @@
+{
+	"name": "Homey CLI",
+	
+	"build": { "dockerfile": "Dockerfile" },
+	"features": {
+		"ghcr.io/flexwie/devcontainer-features/op:1": {}
+	},
+
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"codeium.codeium",
+				"rangav.vscode-thunder-client"
+			]
+		}
+	}
+}

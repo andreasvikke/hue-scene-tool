@@ -1,0 +1,28 @@
+{
+  "id": "dk.andreasvikke.hue-extra-features",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "Hue Extra Features"
+  },
+  "description": {
+    "en": "Adds extra features for hue"
+  },
+  "category": [
+    "lights"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Andreas Vikke",
+    "email": "andreasvikke@gmail.com"
+  }
+}

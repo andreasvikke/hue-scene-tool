@@ -1,0 +1,17 @@
+{
+  "title": {
+    "en": "Activate Scene"
+  },
+  "hint": {
+    "en": "Activates a Scene"
+  },
+  "args": [
+    {
+      "type": "text",
+      "name": "scene",
+      "placeholder": {
+        "en": "Read"
+      }
+    }
+  ]
+}

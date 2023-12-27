@@ -1,0 +1,17 @@
+{
+  "title": {
+    "en": "Activate Smart Scene"
+  },
+  "hint": {
+    "en": "Activates a Smart Scene"
+  },
+  "args": [
+    {
+      "type": "text",
+      "name": "scene",
+      "placeholder": {
+        "en": "Natural light"
+      }
+    }
+  ]
+}
