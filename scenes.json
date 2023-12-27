@@ -1,0 +1,126 @@
+[
+    {
+        "metadata": {
+            "name": "Read"
+        },
+        "palette": {
+            "color": [],
+            "dimming": [],
+            "color_temperature": [
+                {
+                    "color_temperature": {
+                        "mirek": 343
+                    },
+                    "dimming": {
+                        "brightness": 100.0
+                    }
+                }
+            ],
+            "effects": []
+        }
+    },
+    {
+        "metadata": {
+            "name": "Nightlight"
+        },
+        "palette": {
+            "color": [
+                {
+                    "color": {
+                        "xy": {
+                            "x": 0.5609999999999998,
+                            "y": 0.4042000000000001
+                        }
+                    },
+                    "dimming": {
+                        "brightness": 0.0
+                    }
+                }
+            ],
+            "dimming": [],
+            "color_temperature": [
+                {
+                    "color_temperature": {
+                        "mirek": 500
+                    },
+                    "dimming": {
+                        "brightness": 0.0
+                    }
+                }
+            ],
+            "effects": []
+        }
+    },
+    {
+        "metadata": {
+            "name": "Relax"
+        },
+        "palette": {
+            "color": [],
+            "dimming": [],
+            "color_temperature": [
+                {
+                    "color_temperature": {
+                        "mirek": 447
+                    },
+                    "dimming": {
+                        "brightness": 56.25
+                    }
+                }
+            ],
+            "effects": []
+        }
+    },
+    {
+        "metadata": {
+            "name": "Rest"
+        },
+        "palette": {
+            "color": [
+                {
+                    "color": {
+                        "xy": {
+                            "x": 0.5609999999999998,
+                            "y": 0.4042000000000001
+                        }
+                    },
+                    "dimming": {
+                        "brightness": 35.0
+                    }
+                }
+            ],
+            "dimming": [],
+            "color_temperature": [
+                {
+                    "color_temperature": {
+                        "mirek": 500
+                    },
+                    "dimming": {
+                        "brightness": 35.0
+                    }
+                }
+            ],
+            "effects": []
+        }
+    },
+    {
+        "metadata": {
+            "name": "Bright"
+        },
+        "palette": {
+            "color": [],
+            "dimming": [],
+            "color_temperature": [
+                {
+                    "color_temperature": {
+                        "mirek": 370
+                    },
+                    "dimming": {
+                        "brightness": 100.0
+                    }
+                }
+            ],
+            "effects": []
+        }
+    }
+]

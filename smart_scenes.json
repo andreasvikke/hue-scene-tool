@@ -1,0 +1,100 @@
+[
+    {
+        "metadata": {
+            "name": "Natural light"
+        },
+        "week_timeslots": [
+            {
+                "timeslots": [
+                    {
+                        "start_time": {
+                            "kind": "time",
+                            "time": {
+                                "hour": 7,
+                                "minute": 0,
+                                "second": 0
+                            }
+                        },
+                        "target": {
+                            "Rid": "Relax"
+                        }
+                    },
+                    {
+                        "start_time": {
+                            "kind": "time",
+                            "time": {
+                                "hour": 9,
+                                "minute": 0,
+                                "second": 0
+                            }
+                        },
+                        "target": {
+                            "Rid": "Read"
+                        }
+                    },
+                    {
+                        "start_time": {
+                            "kind": "time",
+                            "time": {
+                                "hour": 12,
+                                "minute": 0,
+                                "second": 0
+                            }
+                        },
+                        "target":{
+                            "Rid": "Bright"
+                        }
+                    },
+                    {
+                        "start_time": {
+                            "kind": "time",
+                            "time": {
+                                "hour": 19,
+                                "minute": 0,
+                                "second": 0
+                            }
+                        },
+                        "target": {
+                            "Rid": "Relax"
+                        }
+                    },
+                    {
+                        "start_time": {
+                            "kind": "time",
+                            "time": {
+                                "hour": 21,
+                                "minute": 0,
+                                "second": 0
+                            }
+                        },
+                        "target": {
+                            "Rid": "Rest"
+                        }
+                    },
+                    {
+                        "start_time": {
+                            "kind": "time",
+                            "time": {
+                                "hour": 23,
+                                "minute": 0,
+                                "second": 0
+                            }
+                        },
+                        "target": {
+                            "Rid": "Nightlight"
+                        }
+                    }
+                ],
+                "recurrence": [
+                    "sunday",
+                    "monday",
+                    "tuesday",
+                    "wednesday",
+                    "thursday",
+                    "friday",
+                    "saturday"
+                ]
+            }
+        ]
+    }
+]
