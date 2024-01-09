@@ -1,7 +1,11 @@
 [
     {
         "metadata": {
-            "name": "Read"
+            "name": "Read",
+            "image": {
+                "rid": "e101a77f-9984-4f61-aac8-15741983c656",
+                "rtype": "public_image"
+            }
         },
         "palette": {
             "color": [],
@@ -21,7 +25,11 @@
     },
     {
         "metadata": {
-            "name": "Nightlight"
+            "name": "Nightlight",
+            "image": {
+                "rid": "28bbfeff-1a0c-444e-bb4b-0b74b88e0c95",
+                "rtype": "public_image"
+            }
         },
         "palette": {
             "color": [
@@ -44,7 +52,7 @@
                         "mirek": 500
                     },
                     "dimming": {
-                        "brightness": 0.0
+                        "brightness": 8.0
                     }
                 }
             ],
@@ -53,7 +61,11 @@
     },
     {
         "metadata": {
-            "name": "Relax"
+            "name": "Relax",
+            "image": {
+                "rid": "a1f7da49-d181-4328-abea-68c9dc4b5416",
+                "rtype": "public_image"
+            }
         },
         "palette": {
             "color": [],
@@ -73,7 +85,11 @@
     },
     {
         "metadata": {
-            "name": "Rest"
+            "name": "Rest",
+            "image": {
+                "rid": "11a09ad5-8d65-4e90-959b-f05981a9ab1b",
+                "rtype": "public_image"
+            }
         },
         "palette": {
             "color": [
@@ -105,7 +121,11 @@
     },
     {
         "metadata": {
-            "name": "Bright"
+            "name": "Bright",
+            "image": {
+                "rid": "732ff1d9-76a7-4630-aad0-c8acc499bb0b",
+                "rtype": "public_image"
+            }
         },
         "palette": {
             "color": [],

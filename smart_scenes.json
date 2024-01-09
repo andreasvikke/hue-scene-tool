@@ -1,7 +1,11 @@
 [
     {
         "metadata": {
-            "name": "Natural light"
+            "name": "Natural light",
+            "image": {
+                "rid": "eb014820-a902-4652-8ca7-6e29c03b87a1",
+                "rtype": "public_image"
+            }
         },
         "week_timeslots": [
             {
@@ -49,7 +53,7 @@
                         "start_time": {
                             "kind": "time",
                             "time": {
-                                "hour": 19,
+                                "hour": 17,
                                 "minute": 0,
                                 "second": 0
                             }
@@ -62,7 +66,7 @@
                         "start_time": {
                             "kind": "time",
                             "time": {
-                                "hour": 21,
+                                "hour": 19,
                                 "minute": 0,
                                 "second": 0
                             }
@@ -72,17 +76,17 @@
                         }
                     },
                     {
-                        "start_time": {
-                            "kind": "time",
-                            "time": {
-                                "hour": 23,
-                                "minute": 0,
-                                "second": 0
-                            }
-                        },
-                        "target": {
-                            "Rid": "Nightlight"
+                      "start_time": {
+                        "kind": "time",
+                        "time": {
+                          "hour": 23,
+                          "minute": 0,
+                          "second": 0
                         }
+                      },
+                      "target": {
+                        "rid": "Nightlight"
+                      }
                     }
                 ],
                 "recurrence": [

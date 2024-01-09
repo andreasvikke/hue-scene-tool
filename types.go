@@ -113,12 +113,14 @@ type Actions struct {
 }
 type Metadata struct {
 	Name      string `json:"name"`
+	Image     *Group `json:"image,omitempty"`
 	Archetype string `json:"archetype"`
 }
 type Group struct {
 	Rid   string `json:"rid"`
 	RType string `json:"rtype"`
 }
+
 type ColorTemperature struct {
 	Mirek int `json:"mirek,omitempty"`
 }
